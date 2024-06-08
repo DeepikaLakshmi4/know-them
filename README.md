@@ -5,6 +5,7 @@ design, the project aims to contribute to the broader goal of building a more em
 
 Different Python Packages tht were used: Numpy, opencv-python, keras, tensorflow
 Till now there are 3 modules introduced that includes,
+
 ###Facial Emotion Detection 
 Data set used: https://www.kaggle.com/datasets/msambare/fer2013
 Emotions that are classified: "Angry", "Disgusted", "Fearful", "Happy", "Neutral",  "Sad", "Surprised"
