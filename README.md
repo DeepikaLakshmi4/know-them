@@ -1,9 +1,13 @@
-KNOW THEM - application the visually challeneged
+KNOW THEM - application the visually challenged
 The aim of this project is to empower visually impaired individuals by developing an innovative, multisensory technology solution that enhances their ability to 
 understand and respond to the emotions of others during social interactions. Through the integration of cutting-edge technology and thoughtful 
 design, the project aims to contribute to the broader goal of building a more empathetic and inclusive society for the visually impaired community.
 
-Different Python Packages tht were used: Numpy, opencv-python, keras, tensorflow
+Main Python Packages that are used: 
+Numpy 
+opencv-python
+keras
+tensorflow
 Till now there are 3 modules introduced that includes,
 
 ###Facial Emotion Detection 
